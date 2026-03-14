@@ -1,1 +1,2 @@
 FLASK_APP=nestra.py
+FLASK_DEBUG=1
